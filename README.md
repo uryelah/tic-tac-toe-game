@@ -122,15 +122,18 @@ The tests are contained within the spec folder in the game_logic_spec.rb file
 Before running the tests make sure to install [RSpec](rspec.info)
 You can run the tests by typing ```rspec``` in the terminal, inside the root directory.
 
-<!-- CONTACT -->
+-------
+
 ## Contact
 
-María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
-<br />
-<br />
-Sarah Uryelah Silva - [@uryelah](https://twitter.com/uryelah) - [@uryelah](https://github.com/uryelah) - sarahchamorro@gmail.com
+👤 **Sarah Uryelah Silva Chamorro**
 
-Project Link: [https://github.com/majovainilla/tic-tac-toe-game)
+- Github: [@uryelah](https://github.com/uryelah)
+- Twitter: [@sarah_chamorro](https://twitter.com/sarah_chamorro)
+- Linkedin: [Sharah Chamorro](https://www.linkedin.com/in/uryelah/)
+- Email: [sarahchamorro@gmail.com](sarahchamorro@gmail.com)
+
+-------
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
