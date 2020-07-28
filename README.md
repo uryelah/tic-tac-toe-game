@@ -31,6 +31,8 @@
   * [Instructions](#instructions)
   * [Built With](#built-with)
   * [Testing](#testing)
+* [Features](#features)
+* [Future Features](#future-features)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -122,6 +124,21 @@ The tests are contained within the spec folder in the game_logic_spec.rb file
 Before running the tests make sure to install [RSpec](rspec.info)
 You can run the tests by typing ```rspec``` in the terminal, inside the root directory.
 
+-------
+
+## Features
+
+- Replay while keeping game rounds and pontuation
+
+- Custom player names
+
+## Future Features
+
+- Player vs Computer mode
+
+- Improved UI, with colors
+
+- Help menu
 -------
 
 ## Contact
